@@ -1,12 +1,12 @@
-Title: Kirby Starterkit
+Title: Melomaniacs.us
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: Max Henderson
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: A new kind of music blog.
 
 ----
 
@@ -14,4 +14,4 @@ Keywords: Kirby, CMS, file-based
 
 ----
 
-Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Melomaniacs.us)
